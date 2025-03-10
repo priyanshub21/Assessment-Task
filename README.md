@@ -47,9 +47,6 @@ This project implements a machine learning model for predicting house prices usi
    docker run -p 5000:5000 house-price-predictor
    ```
 
-## Hosted API (if deployed)
-
-[Insert link to hosted API here]
 
 ## Author
 
